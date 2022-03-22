@@ -1,19 +1,6 @@
 # vue2_todolist
 
-## Project setup
-```
-npm install
-```
+vue2_todolist
+用来学习和理解Vue2源码而创建的项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+虽然已经是Vue3的时代了，但是总觉得Vue2的源码都没有好好理解，直接上手Vue3是不是不太好（
